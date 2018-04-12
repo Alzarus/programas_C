@@ -49,7 +49,6 @@ int main(){
     if(n==0){
     	printf("\nObrigado por usar nosso calculador!\n\n");
     	preencher();
-    	return 0;
 	}
 	
 	return 0;

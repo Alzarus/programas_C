@@ -1,5 +1,7 @@
 /*
-Descricao: Bubble sort eh um simples algoritmo de ordenacao que funciona atraves da repeticao de passos atraves da lista que deve ser ordenada, comparando cada par de itens adjacentes e invertendo eles caso estejam na ordem incorreta.
+Descricao: 
+Bubble sort eh um simples algoritmo de ordenacao que funciona atraves da repeticao de passos atraves da lista que deve ser ordenada,
+comparando cada par de itens adjacentes e invertendo eles caso estejam na ordem incorreta.
 Complexidade - O(n^2)
 */
 

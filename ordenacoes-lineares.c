@@ -15,12 +15,8 @@ void bubbleSort(int *v, int N){
                 V[i] = V[j];
                 V[j] = aux;
             }
-            
         }    
-        
-        
     }
-                
 }
 
 void selectionSort(int *V, int N){

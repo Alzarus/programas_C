@@ -1,0 +1,29 @@
+#include<stdio.h>
+
+void bubbleSort(int *v, int N){
+    int i, aux;
+    
+    for(i = 0;i < N; i++){
+        
+        for(j = 0; j < N; j++){
+            
+            if (V[i] > V[j]){
+                aux = V[j];
+                V[i] = V[j];
+                V[j] = aux;
+            }
+            
+        }    
+        
+        
+    }
+                
+}
+
+
+int main(){
+    
+    int vet[7] = {23, 45, 67, 96, 12, 9, 54};
+    
+    return 0;
+}
